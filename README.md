@@ -1,0 +1,1 @@
+This is O-D-O-D first git project!
